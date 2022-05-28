@@ -1,3 +1,3 @@
-# DataScience
+# Datacamp - Nobel Prize Analysis
 
-Datacamp project on Nobel Analysis.
+Datacamp project on Nobel Prize Analysis.
